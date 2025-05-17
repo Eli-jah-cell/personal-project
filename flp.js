@@ -1,0 +1,1 @@
+ alert('Welcome to My landing page, enjoy your stay!');
